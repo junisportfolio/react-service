@@ -129,7 +129,6 @@ class Authentication extends React.Component {
             </div>
         );
     }
-
 }
 
 Authentication.propTypes = {
